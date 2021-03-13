@@ -1,5 +1,5 @@
 qlib_init:
-    provider_uri: "/data/stock_data/qlib_data/qlib_cn_1d"
+    provider_uri: "/data/qlib_data/qlib_cn_1d"
     region: cn
     redis_host: 'redis-service'
 market: &market all
